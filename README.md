@@ -1,4 +1,4 @@
-# ACTE WeekDay BATCH 1 Data Analyst Portfolio Project
+# ACTE WeekDay BATCH 1 Data Analyst Portfolio Project - Pizza Sales Analysis
 Data Analyst Project Source code Raw Dataset and Dashboard SQL and Notebooks 
 
 The Pizza Sales Analysis project focuses on analyzing transactional sales data to uncover business insights, improve decision-making, and identify revenue growth opportunities. The dataset includes order details such as pizza types, categories, sizes, quantities, prices, and timestamps.
